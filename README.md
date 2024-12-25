@@ -51,7 +51,7 @@ An additional note - this also works on Pico, with some slight adjustments to th
 2. Inside of your headset, click "Always trust this computer" or "Yes" on the prompt asking to trust this computer for ADB.
 3. ADBForwarder will now tell you to unplug and replug your headset. Do so as instructed, and then ADBForwarder should automatically connect your quest to ADB. You may need to restart ADBForwarder.
 
-## Once all these steps are done, you should be able to run wired PCVR on your quest without the oculus software by following this series of actions:
+## Once all these steps are done, you should be able to run wired PCVR on your Quest (without Quest Link) or Pico by following this series of actions:
 1. Plug your headset into your computer.
 2. Run ADBForwarder. It should autoconnect ADB.
 3. Open ALVR on your PC and headset.
