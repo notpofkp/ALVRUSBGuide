@@ -2,7 +2,6 @@
 An alternative, **unofficial** guide for setting up ALVR over USB using a link cable and a supported headset.
 
 # How to use wired PCVR on Quest without Oculus software, or the Pico
-An additional note - this also works on Pico, with some slight adjustments to the steps taken
 
 ## Things you need:
 ### ALVR Launcher - This will install the most updated version of the ALVR Dashboard, which is necessary for hooking up your quest to your pc without using Oculus software. Link to download can be found here: <https://github.com/alvr-org/ALVR>. - *Do not clone the repo, look for the link inside of it that says "Windows Launcher".*
