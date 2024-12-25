@@ -10,7 +10,7 @@ An additional note - this also works on Pico, with some slight adjustments to th
 ### VB-Audio - This will pass speaker and microphone audio between your computer and headset, allowing you to hear and speak through your headset. ALVR will automatically prompt you to install VB-Audio.
 ### USB2.0 or 3.0 USB-C to USB-C/USB-A Cable - This will be the cable that actually transmits all the data from your computer to the headset. My recommendation can be bought here: <https://www.kiwidesign.com/products/link-cable-compatible-with-quest-3>
 ### SteamVR - This is the VR runtime that you will be using. Link to download can be found here: <https://store.steampowered.com/app/250820/SteamVR/>
-### Developer mode on your Quest 2. Detailed instructions on developer mode will be found below.
+### Developer mode on your Quest or USB Debugging on your Pico. Detailed instructions on both will be found below.
 
 ## Quest Developer mode setup:
 1. Log into your meta account in the Meta Developer website. Link can be found here: https://developer.oculus.com/manage/organizations/create/
