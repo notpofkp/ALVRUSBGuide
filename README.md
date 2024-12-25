@@ -1,5 +1,5 @@
 # ALVRUSBGuide
-An alternative guide for setting up ALVR over USB using a link cable and a supported headset.
+An alternative, **unofficial** guide for setting up ALVR over USB using a link cable and a supported headset.
 
 # How to use wired PCVR on Quest without Oculus software, or the Pico
 An additional note - this also works on Pico, with some slight adjustments to the steps taken
@@ -58,3 +58,7 @@ An additional note - this also works on Pico, with some slight adjustments to th
 4. Press "Launch Steam" in ALVR on your pc.
 5. Go into your headset and wait for ALVR to connect.
 6. Done!
+
+
+## Other notes:
+None of the software or hardware listed here is made by or is owned by me. All credit goes to the developer teams at ALVR, as well as Meta, Steam and PICO for their hardware and software advancements. 
