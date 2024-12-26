@@ -4,7 +4,7 @@ An alternative, **unofficial** guide for setting up ALVR over USB using a link c
 # How to use wired PCVR on Quest without Oculus software, or the Pico
 
 ## Things you need:
-### ALVR Launcher - This will install the most updated version of the ALVR Dashboard, which is necessary for hooking up your quest to your pc without using Oculus software. Link to download can be found here: <https://github.com/alvr-org/ALVR>. - *Do not clone the repo, look for the link inside of it that says "Windows Launcher".*
+### ALVR Launcher - This will install the most updated version of the ALVR Dashboard, which is necessary for hooking up your quest or pico to your pc without using Oculus software. Link to download can be found here: <https://github.com/alvr-org/ALVR>. - *Do not clone the repo, look for the link inside of it that says "Windows Launcher".*
 ### ADB Forwarder - This will connect your headset to your PC via adb and automatically reconnect if your cable disconnects temporarily - this is neccessary to transmit TCP signals over USB, which is how ALVR wired connection works. Link to download can be found here: <https://github.com/alvr-org/ADBForwarder> - Look for the button that says "Download Here" and download the zip file named "ADBForwarder-windows-x64.zip". 
 ### VB-Audio - This will pass speaker and microphone audio between your computer and headset, allowing you to hear and speak through your headset. ALVR will automatically prompt you to install VB-Audio.
 ### USB2.0 or 3.0 USB-C to USB-C/USB-A Cable - This will be the cable that actually transmits all the data from your computer to the headset. My recommendation can be bought here: <https://www.kiwidesign.com/products/link-cable-compatible-with-quest-3>
